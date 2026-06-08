@@ -1,2 +1,2 @@
 # WEAVE
-**Website for Examining Autonomous Vehicle Ethics**
+#Website for Examining Autonomous Vehicle Ethics
